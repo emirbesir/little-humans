@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 196e4d66e7f4eb048bbe331d7f31188a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4010451583797997376
+    second: smears_0
+  - first:
+      213: -5941781681639040311
+    second: smears_1
+  - first:
+      213: -8769404490935502445
+    second: smears_2
+  - first:
+      213: 3626280735797611297
+    second: smears_3
+  - first:
+      213: 1815629684687435470
+    second: smears_4
+  - first:
+      213: -8425124351784798220
+    second: smears_5
+  - first:
+      213: -8177910048067103893
+    second: smears_6
+  - first:
+      213: -9103874390809256611
+    second: smears_7
+  - first:
+      213: -5541018415927540656
+    second: smears_8
+  - first:
+      213: -6878963704798868722
+    second: smears_9
+  - first:
+      213: -3050826963532039545
+    second: smears_10
+  - first:
+      213: 4511680256555345376
+    second: smears_11
+  - first:
+      213: 5982200919945006336
+    second: smears_12
+  - first:
+      213: -5687089328921107108
+    second: smears_13
+  - first:
+      213: -6285821153382274435
+    second: smears_14
+  - first:
+      213: -262267262508060080
+    second: smears_15
+  - first:
+      213: 5329563935987699646
+    second: smears_16
+  - first:
+      213: 2608015151468219343
+    second: smears_17
+  - first:
+      213: -8415799983701438614
+    second: smears_18
+  - first:
+      213: 6129730431835728227
+    second: smears_19
+  - first:
+      213: 2125025351946947692
+    second: smears_20
+  - first:
+      213: -4553312878408173925
+    second: smears_21
+  - first:
+      213: 72398556648632610
+    second: smears_22
+  - first:
+      213: -4148670073592093708
+    second: smears_23
+  - first:
+      213: -1914042878263264126
+    second: smears_24
+  - first:
+      213: -4100834175596299972
+    second: smears_25
+  - first:
+      213: 5203633907446184710
+    second: smears_26
+  - first:
+      213: 7871589603643859239
+    second: smears_27
+  - first:
+      213: 8197865300802806989
+    second: smears_28
+  - first:
+      213: 252183155191542371
+    second: smears_29
+  - first:
+      213: -4021707452078555558
+    second: smears_30
+  - first:
+      213: 1770955869082886016
+    second: smears_31
+  - first:
+      213: 5880096041944326824
+    second: smears_32
+  - first:
+      213: -4381347658541076241
+    second: smears_33
+  - first:
+      213: -8281902781031088133
+    second: smears_34
+  - first:
+      213: 6921401497047457243
+    second: smears_35
+  - first:
+      213: 7271844942999590625
+    second: smears_36
+  - first:
+      213: 2739610579252532797
+    second: smears_37
+  - first:
+      213: -4042080319253135974
+    second: smears_38
+  - first:
+      213: 3665681747327519591
+    second: smears_39
+  - first:
+      213: -5405001319334268568
+    second: smears_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smears_0
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 526
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fae29977cf7a730800000000000000
+      internalID: 4010451583797997376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_1
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 632
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca5bfc9a0d8a8da0800000000000000
+      internalID: -5941781681639040311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 616
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399f21ae311dc4680800000000000000
+      internalID: -8769404490935502445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_3
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 593
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b0f09cd13235230800000000000000
+      internalID: 3626280735797611297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 614
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f27f1499623910800000000000000
+      internalID: 1815629684687435470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_5
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 622
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7bf5f4a02f31b80800000000000000
+      internalID: -8425124351784798220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_6
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 143
+        width: 460
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63dcd3c32a328e80800000000000000
+      internalID: -8177910048067103893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_7
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 605
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dd908d97a88a180800000000000000
+      internalID: -9103874390809256611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_8
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 604
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054cdb8bb195a13b0800000000000000
+      internalID: -5541018415927540656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 581
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b88a0f4f20980a0800000000000000
+      internalID: -6878963704798868722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_10
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 592
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a3d776a0949a5d0800000000000000
+      internalID: -3050826963532039545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_11
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 589
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5ef181a45bc9e30800000000000000
+      internalID: 4511680256555345376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_12
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 565
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4658aa0c050350800000000000000
+      internalID: 5982200919945006336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 224
+        width: 488
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552eb703666311b0800000000000000
+      internalID: -5687089328921107108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_14
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6307f6f644c8a0800000000000000
+      internalID: -6285821153382274435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_15
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 566
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0523ef5705d3c5cf0800000000000000
+      internalID: -262267262508060080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_16
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 565
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf874c992a66f940800000000000000
+      internalID: 5329563935987699646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 515
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb891066f7813420800000000000000
+      internalID: 2608015151468219343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 522
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fccbee082153b80800000000000000
+      internalID: -8415799983701438614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 516
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369687ed95d211550800000000000000
+      internalID: 6129730431835728227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_20
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 119
+        width: 476
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c4f797c4b9d7d10800000000000000
+      internalID: 2125025351946947692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_21
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 208
+        width: 355
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96f443cf026fc0c0800000000000000
+      internalID: -4553312878408173925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 512
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221fa4b8a16310100800000000000000
+      internalID: 72398556648632610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_23
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 508
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ef357c86fc66c0800000000000000
+      internalID: -4148670073592093708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c704ca424ff65e0800000000000000
+      internalID: -1914042878263264126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_25
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 499
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fcc06b09e617c0800000000000000
+      internalID: -4100834175596299972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_26
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 513
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bf1820875073840800000000000000
+      internalID: 5203633907446184710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a9def9018d3d60800000000000000
+      internalID: 7871589603643859239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 487
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc42ad29e0ba4c170800000000000000
+      internalID: 8197865300802806989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 464
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36277875e3fef7300800000000000000
+      internalID: 252183155191542371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 467
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ef05851660038c0800000000000000
+      internalID: -4021707452078555558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 464
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f1491eaf2b39810800000000000000
+      internalID: 1770955869082886016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 432
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2a541323c4a9150800000000000000
+      internalID: 5880096041944326824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_33
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 448
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe07b2794835233c0800000000000000
+      internalID: -4381347658541076241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_34
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 437
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff7250dc45c01d80800000000000000
+      internalID: -8281902781031088133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_35
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 329
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddde5b8df1cd0060800000000000000
+      internalID: 6921401497047457243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_36
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 302
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e61631a278cae460800000000000000
+      internalID: 7271844942999590625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_37
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 272
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36df378e4d050620800000000000000
+      internalID: 2739610579252532797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_38
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 202
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db1519d55a7e7c0800000000000000
+      internalID: -4042080319253135974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_39
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0719a02e1fd230800000000000000
+      internalID: 3665681747327519591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smears_40
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 124
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861309edfe39df4b0800000000000000
+      internalID: -5405001319334268568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smears_0: 4010451583797997376
+      smears_1: -5941781681639040311
+      smears_10: -3050826963532039545
+      smears_11: 4511680256555345376
+      smears_12: 5982200919945006336
+      smears_13: -5687089328921107108
+      smears_14: -6285821153382274435
+      smears_15: -262267262508060080
+      smears_16: 5329563935987699646
+      smears_17: 2608015151468219343
+      smears_18: -8415799983701438614
+      smears_19: 6129730431835728227
+      smears_2: -8769404490935502445
+      smears_20: 2125025351946947692
+      smears_21: -4553312878408173925
+      smears_22: 72398556648632610
+      smears_23: -4148670073592093708
+      smears_24: -1914042878263264126
+      smears_25: -4100834175596299972
+      smears_26: 5203633907446184710
+      smears_27: 7871589603643859239
+      smears_28: 8197865300802806989
+      smears_29: 252183155191542371
+      smears_3: 3626280735797611297
+      smears_30: -4021707452078555558
+      smears_31: 1770955869082886016
+      smears_32: 5880096041944326824
+      smears_33: -4381347658541076241
+      smears_34: -8281902781031088133
+      smears_35: 6921401497047457243
+      smears_36: 7271844942999590625
+      smears_37: 2739610579252532797
+      smears_38: -4042080319253135974
+      smears_39: 3665681747327519591
+      smears_4: 1815629684687435470
+      smears_40: -5405001319334268568
+      smears_5: -8425124351784798220
+      smears_6: -8177910048067103893
+      smears_7: -9103874390809256611
+      smears_8: -5541018415927540656
+      smears_9: -6878963704798868722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
