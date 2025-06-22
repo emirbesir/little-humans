@@ -6,6 +6,8 @@
 ![Top Language](https://img.shields.io/github/languages/top/emirbesir/btp-launchpad?style=flat&color=0080ff)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat&logo=Unity&logoColor=black)
 
+_Made and Tested with **Unity 6000.1.3f1**_
+
 </div>
 
 ---
@@ -34,5 +36,3 @@ This project was created by following the [Blackthornprod's Launchpad Course](ht
 *Ingame Screenshot*
 
 ---
-
-Tested and made with **Unity 6000.1.3f1**.
