@@ -17,6 +17,11 @@ The project was created as a practice and learning exercise to explore Unity fun
 
 This project was created by following the [Blackthornprod's Launchpad Course](https://www.gamedevrocket.com/launchpad). Special thanks to Blackthornprod for providing clear and helpful guidance for beginners.
 
+## Learning Goals
+This project was developed to:
+- Learn Unity fundamentals
+- Practice programming simple game mechanics in C#
+
 ## Screenshots
 
 ![Main Menu](docs/main_menu.png)
