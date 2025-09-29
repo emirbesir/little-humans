@@ -1,6 +1,8 @@
 <div align="center">
 
-# 2D Top-Down Strategy Practice Game
+# Unity 2D Top-Down Strategy Practice Game
+
+This repository contains a 2D fast-paced real-time-strategy game built with C# and Unity Engine by following [Blackthornprod's Launchpad Course.](https://www.gamedevrocket.com/launchpad)
 
 ![Last Commit](https://img.shields.io/github/last-commit/emirbesir/btp-launchpad?style=flat&logo=git&logoColor=white&color=0080ff)
 ![Top Language](https://img.shields.io/github/languages/top/emirbesir/btp-launchpad?style=flat&color=0080ff)
@@ -10,33 +12,21 @@ _Made and Tested with **Unity 6000.1.3f1**_
 
 </div>
 
----
-This repository contains a complete 2D fast-paced real-time-strategy game project built with C# and Unity. 
-
-The project was created as a practice and learning exercise to explore Unity fundamentals.
-
-This project was created by following the [Blackthornprod's Launchpad Course](https://www.gamedevrocket.com/launchpad). Special thanks to Blackthornprod for providing clear and helpful guidance for beginners.
-
-## Learning Goals
-This project was developed to:
-- Learn Unity fundamentals
-- Practice programming simple game mechanics in C#
-
 ## Screenshots
 
-![Main Menu](docs/main_menu.png)
+![Main Menu](docs/img/main_menu.png)
 
 *Main Menu*
 
 ---
 
-![Screenshot 1](docs/ingame_screenshot_1.png)
+![Screenshot 1](docs/img/ingame_screenshot_1.png)
 
 *Ingame Screenshot*
 
 ---
 
-![Screenshot 2](docs/ingame_screenshot_2.png)
+![Screenshot 2](docs/img/ingame_screenshot_2.png)
 
 *Ingame Screenshot*
 
